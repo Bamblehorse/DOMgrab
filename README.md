@@ -1,9 +1,9 @@
 # DOMgrab.js
 
 A tiny JavaScript library made as a replacement for jQuery. Inspired by:
-*[youmightnotneedjquery](http://youmightnotneedjquery.com/)
-*[microjs](http://microjs.com/)
-*[Jordan Checkman](http://checkman.io/blog/creating-a-javascript-library/)
+* [youmightnotneedjquery](http://youmightnotneedjquery.com/)
+* [microjs](http://microjs.com/)
+* [Jordan Checkman](http://checkman.io/blog/creating-a-javascript-library/)
 
 ## Built With
 * [Sublime Text 3](https://www.sublimetext.com/3)
